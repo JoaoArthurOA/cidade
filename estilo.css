@@ -1,11 +1,11 @@
 body{
     margin:0px;
-    background-image: linear-gradient(to left, rgb(50, 16, 95),#d758e7);
+    background-image: linear-gradient(to left, rgb(50, 16, 95),#359c8e);
     font-family: "Arial";
     }
     header {
     height:50px;
-    background-image: linear-gradient(to left, rgb(50, 16, 95),#d758e7);
+    background-image: linear-gradient(to left, rgb(50, 16, 95),#00ec76);
     border:1px solid #CCC;
     width:100%;
     margin:0px auto;
@@ -16,12 +16,12 @@ body{
     color:white;
     }
     header h1 span {
-    color: #48f042;
+    color: #01e1ff;
     }
     section {
     text-align: center;
     width:100%;
-    background-image: linear-gradient(to left, rgb(50, 16, 95),#d758e7);
+    background-image: linear-gradient(to left, rgb(50, 16, 95),#0098b3);
     border: 1px solid #CCC;
     margin: 20px auto;
     }
@@ -30,7 +30,7 @@ body{
         -webkit-perspective: 300;
         perspective: 300;
         width:100%;
-        background-image: linear-gradient(to left, rgb(50, 16, 95),#d758e7);
+        background-image: linear-gradient(to left, rgb(50, 16, 95),#00ec76);
         border: 1px solid #CCC;
         height: 550px;
         margin: 20px auto;
@@ -129,7 +129,7 @@ body{
             background: #290830;
             }
             footer {
-            background-image: linear-gradient(to left, rgb(50, 16, 95),#d758e7);
+            background-image: linear-gradient(to left, rgb(50, 16, 95),#0098b3);
             border:1px solid #CCC;
             width:100%;
             margin:0px auto;
